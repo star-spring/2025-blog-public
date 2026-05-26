@@ -6,13 +6,16 @@
 主体：
 （1）第一步：编译
 keil v5.40安装完成之后，需要安装mdk514.exe
+
 （2）第二步：烧录 （烧录上电步骤为先对板子上电，再插入STLINK下载器）
 STLINK需要安装win10驱动，并通过安装STM32 ST-LINK Utility_v3.8.0 确保STLink 有效；可以参考如下链接：
 https://blog.csdn.net/dorlolo/article/details/109155641/https://blog.csdn.net/dorlolo/article/details/109183470
 最后在keil v5.40的option->Debug->setting中，看到STLiNK的设备信息，说明正常连接到了设备，可以进行烧录；
+
 （3）第三步：检查MQTT连接情况
 成功连接到阿里云服务器EMQX的MQTT节点；
 ![](/blogs/mzh-1/f43ce67aae7f1cb3.png)
+
 （4）第四步：完成轮趣IMU的数据收发上云；【14_EC20状态机代码TCP传GPS温湿度数据 - 对接手机APP(EC20内置MQTT代码)出厂默认代码】
 在第三步测试中，完成了对IMU传感器的数据采集，但是数据的下行过程中，由于EC20的自带波特率为115200，在下行下发的时候，EC20发出的MQTT包存在数据帧重叠和掉包的情况；
 因此，需要修改串口：
