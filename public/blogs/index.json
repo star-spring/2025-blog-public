@@ -112,20 +112,6 @@
     "category": ""
   },
   {
-    "slug": "live2d-note",
-    "title": "做一个 Live2D",
-    "tags": [
-      "学习",
-      "Live2D",
-      "笔记"
-    ],
-    "date": "2026-02-28T14:40",
-    "summary": "记录 Live2D 软件心得",
-    "cover": "/blogs/live2d-note/bab67a1255a0d0da.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "watch-bloggers",
     "title": "新年观察",
     "tags": [
@@ -266,41 +252,6 @@
     "date": "2026-01-14T18:03",
     "summary": "折腾 Shader",
     "cover": "/blogs/wave-ball/86d118420c399cdb.webp",
-    "hidden": false,
-    "category": "代码实现"
-  },
-  {
-    "slug": "fish-animation",
-    "title": "鱼鱼动画",
-    "tags": [],
-    "date": "2026-01-12T10:43",
-    "summary": "规划草稿",
-    "cover": "https://www.yysuni.com/images/pictures/b346636da687740b.webp",
-    "hidden": true,
-    "category": ""
-  },
-  {
-    "slug": "love-island",
-    "title": "恋爱岛项目需求记录",
-    "tags": [
-      "开发",
-      "需求"
-    ],
-    "date": "2026-01-09T11:54",
-    "summary": "先记一下子",
-    "cover": "/blogs/love-island/6219a8726148dc27.jpg",
-    "hidden": false,
-    "category": "开源"
-  },
-  {
-    "slug": "electric-border",
-    "title": "电光边框效果",
-    "tags": [
-      "学习"
-    ],
-    "date": "2026-01-06T17:05",
-    "summary": "AI 学习边框特效",
-    "cover": "/blogs/electric-border/9b898d43a5a85684.webp",
     "hidden": false,
     "category": "代码实现"
   },
