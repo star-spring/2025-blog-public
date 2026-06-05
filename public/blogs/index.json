@@ -10,15 +10,6 @@
     "category": "总结"
   },
   {
-    "slug": "（四）",
-    "title": "墨子号科技",
-    "tags": [],
-    "date": "2026-05-25T09:40",
-    "summary": "",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "curve-arrow",
     "title": "箭头生成小工具",
     "tags": [
@@ -108,45 +99,6 @@
     "date": "2026-03-04T16:25",
     "summary": "blender 笔记",
     "cover": "/blogs/blender-scene-note/32c234f6bf0b8b9b.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "watch-bloggers",
-    "title": "新年观察",
-    "tags": [
-      "总结"
-    ],
-    "date": "2026-02-25T16:40",
-    "summary": "新的一年，看看其它的技术博主最近在干嘛",
-    "cover": "/blogs/watch-bloggers/ff9a6df88fc0bbb4.webp",
-    "hidden": false,
-    "category": "总结"
-  },
-  {
-    "slug": "3d-scene-note",
-    "title": "3D 场景搭建笔记",
-    "tags": [
-      "学习",
-      "笔记",
-      "3D"
-    ],
-    "date": "2026-02-06T17:21",
-    "summary": "计划如何计划",
-    "cover": "/blogs/3d-scene-note/96d5437de1d0424f.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
-    "slug": "3d-blender-note",
-    "title": "3D 与 Blender 笔记",
-    "tags": [
-      "学习",
-      "3D"
-    ],
-    "date": "2026-02-05T17:20",
-    "summary": "遇到一个坑的笔记",
-    "cover": "/blogs/3d-blender-note/d61f14bf7b05d654.webp",
     "hidden": false,
     "category": ""
   },
