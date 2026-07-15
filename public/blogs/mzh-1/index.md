@@ -6,7 +6,7 @@
 主体：
 （1）第一步：编译
 keil v5.40安装完成之后，需要安装mdk514.exe
-
+具体参考此博客：https://blog.csdn.net/helanfe/article/details/154208208?spm=1001.2014.3001.5506
 （2）第二步：烧录 （烧录上电步骤为先对板子上电，再插入STLINK下载器）
 STLINK需要安装win10驱动，并通过安装STM32 ST-LINK Utility_v3.8.0 确保STLink 有效；可以参考如下链接：
 https://blog.csdn.net/dorlolo/article/details/109155641/https://blog.csdn.net/dorlolo/article/details/109183470
